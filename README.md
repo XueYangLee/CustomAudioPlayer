@@ -43,3 +43,5 @@
     remoteContent.artwork=[UIImage imageNamed:@"封面图"];
 }];
 ```
+
+![example](https://github.com/XueYangLee/CustomAudioPlayer/blob/main/example.gif)
