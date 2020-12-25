@@ -1,0 +1,28 @@
+PODS:
+  - FreeStreamer (4.0.0):
+    - Reachability (~> 3.0)
+  - FuncControl (1.1.0)
+  - Masonry (1.1.0)
+  - Reachability (3.2)
+
+DEPENDENCIES:
+  - FreeStreamer
+  - FuncControl
+  - Masonry
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - FreeStreamer
+    - FuncControl
+    - Masonry
+    - Reachability
+
+SPEC CHECKSUMS:
+  FreeStreamer: 7e9c976045701ac2f7e9c14c17245203c37bf2ea
+  FuncControl: ce46cc0b4463fb2297f379bd7d3f3d7b8974e3e5
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+
+PODFILE CHECKSUM: 341829b8a592f9dc361c4131058fad6c19ef6846
+
+COCOAPODS: 1.9.3
